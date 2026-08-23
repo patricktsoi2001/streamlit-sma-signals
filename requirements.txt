@@ -1,4 +1,7 @@
-streamlit
+# Pinned to the versions verified by test_data_lib.py + app smoke test
+streamlit==1.62.0
+pandas==3.0.5
+numpy==2.4.3
+plotly==6.9.0
+# yfinance retained from the original SMA-signals project (not used by this app)
 yfinance
-pandas
-plotly
